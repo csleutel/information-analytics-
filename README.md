@@ -31,6 +31,21 @@ They will offer the following nine courses:
 
 **Technology**
 
+Technology used in Preservation Courses
+
 Course Name   |   Assignment
 ---   |   ---   |   ---
-Preserving Information   |   Preservation Assesment
+Web Archiving   |   ArchiveIT
+Digitization for Preserving   |   GoldenThread (Image Science Associates)
+Digital Preservation   |   FITS, BagIT, Checksum
+REcords Management   |   Sharepoint
+Access Systems for Archival Materials   |   Archivist's Toolkit ect
+
+
+
+
+
+
+
+
+
