@@ -1,6 +1,5 @@
 # information-analytics-
 exercises information analytics
 
-### Article 1
+### Article 1 - Digital Curation for Digital Natives
 
-###### Digital Curation for Digital Natives
