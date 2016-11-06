@@ -23,11 +23,11 @@ They will offer the following nine courses:
 
 *Purpose*
 
-1. introduce students to general concepts
-..* Digital Preservation
+1. introduce students to general concepts.
+..* Digital Preservation.
 
-2. provide more detailed knowledge about certain media
-..* Digital Preservation + Preserving Sound and Motion
+2. provide more detailed knowledge about certain media.
+..* Digital Preservation + Preserving Sound and Motion.
 
-3. introduce students to curation in specific areas
-..* Science/Social Science Data Curation
+3. introduce students to curation in specific areas.
+..* Science/Social Science Data Curation.
