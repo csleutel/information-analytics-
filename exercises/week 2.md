@@ -53,8 +53,7 @@ Internships are an integral part of educating all master's program, all students
 ### Article 2 - Ontology is Overrated
 
 
-Some information about Clay Shirky Inline-Style:
-![alt text] (http://8days1week.com/wp-content/uploads/2013/10/Wiki-Conference_New_York_2010_portrait_16_-_Clay_Shirky.jpg) 
+Some information about Clay Shirky ![alt text] (https://www.socialmediaexplorer.com/wp-content/uploads/2010/07/Clay-Shirky.jpg) 
 
 [Wikipedia page of Clay Shirky] (https://en.wikipedia.org/wiki/Clay_Shirky)
 
