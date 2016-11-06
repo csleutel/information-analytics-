@@ -11,8 +11,23 @@ This article discuss the development of a digital curation curriculum at the Uni
 
 They will offer the following nine courses:
 
-* Preserving I formation
+* Preserving Information
 + Advanced Preservation
 - Digital Preservation
+- Web Archiving
+- Digitization for Preserving
+- Preserving Sound and Motion
+- Economics of Sustainable Digital Preservation
+- Physical Treatment Processes for Preservation Administrators
+- Science/Social Science Data Curation
 
+*Purpose*
 
+- introduce students to general concepts
+..* Digital Preservation
+
+- provide more detailed knowledge about certain media
+..* Digital Preservation + Preserving Sound and Motion
+
+- introduce students to curation in specific areas
+..* Science/Social Science Data Curation
