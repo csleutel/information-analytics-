@@ -9,6 +9,8 @@ This article discuss the development of a digital curation curriculum at the Uni
 2. internships
 3. technology tools
 
+**Courses**
+
 They will offer the following nine courses:
 
 * Preserving Information
@@ -24,10 +26,11 @@ They will offer the following nine courses:
 *Purpose*
 
 1. introduce students to general concepts.
-..* Digital Preservation.
-
 2. provide more detailed knowledge about certain media.
-..* Digital Preservation + Preserving Sound and Motion.
-
 3. introduce students to curation in specific areas.
-..* Science/Social Science Data Curation.
+
+**Technology**
+
+Course Name   |   Assignment
+---   |   ---   |   ---
+Preserving Information   |   Preservation Assesment
