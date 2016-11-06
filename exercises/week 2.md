@@ -59,3 +59,4 @@ Some information about Clay Shirky ![alt text] (https://www.socialmediaexplorer.
 
 see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=Lg3PNFXTdG8)]
