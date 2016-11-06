@@ -57,5 +57,5 @@ Some information about Clay Shirky
 
 [Wikipedia page of Clay Shirky] (https://en.wikipedia.org/wiki/Clay_Shirky)
 
-see also some Ted talks [https://www.ted.com/speakers/clay_shirky]
+see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
