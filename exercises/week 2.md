@@ -65,5 +65,5 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
 * links
  *  are the best
-  *  way to find things
-   *  on the internet
+ *  way to find things
+   * on the internet
