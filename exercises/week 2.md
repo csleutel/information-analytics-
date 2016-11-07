@@ -63,6 +63,11 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
 [![Alt text](https://img.youtube.com/vi/https://youtu.be/Lg3PNFXTdG8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Lg3PNFXTdG8)
 
+<div class="iframe_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Lg3PNFXTdG8" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
+
 * links
  *  are the best
  *  way to find things
