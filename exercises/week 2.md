@@ -63,10 +63,8 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
 [![Alt text](https://img.youtube.com/vi/https://youtu.be/Lg3PNFXTdG8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Lg3PNFXTdG8)
 
-<div class="iframe_container">
- <iframe src="https://www.youtube.com/embed/Lg3PNFXTdG8" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-</div>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Lg3PNFXTdG8/0.jpg)](http://www.youtube.com/watch?v=Lg3PNFXTdG8)
 
 * links
  *  are the best
