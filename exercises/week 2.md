@@ -61,9 +61,6 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
 
 
-[![Alt text](https://img.youtube.com/vi/https://youtu.be/Lg3PNFXTdG8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Lg3PNFXTdG8)
-
-
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Lg3PNFXTdG8/0.jpg)](http://www.youtube.com/watch?v=Lg3PNFXTdG8)
 
 * links
