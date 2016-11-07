@@ -61,3 +61,7 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 
 <a href="https://www.youtube.com/watch?v=Lg3PNFXTdG8
 [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=Lg3PNFXTdG8)]
+
+
+* links
+ *  are the best
