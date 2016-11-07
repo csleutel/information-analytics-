@@ -62,6 +62,8 @@ see also some [Ted talks] (https://www.ted.com/speakers/clay_shirky)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/http://www.youtube.com/watch?v=Lg3PNFXTdG8)](https://www.youtube.com/watch?v=Lg3PNFXTdG8)
 
 
+[![Alt text](https://img.youtube.com/vi/https://youtu.be/Lg3PNFXTdG8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Lg3PNFXTdG8)
+
 * links
  *  are the best
  *  way to find things
